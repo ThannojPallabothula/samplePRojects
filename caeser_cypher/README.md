@@ -1,20 +1,24 @@
 This code provides a Caesar cipher tool. It allows users to encrypt or decrypt messages by shifting letters in the alphabet based on a chosen number
 
 for example 
-![image](https://github.com/ThannojPallabothula/Projects/assets/160522282/83b504cb-1ca5-4e53-961b-87d3cb65aff5)
+<img width="626" alt="image" src="https://github.com/ThannojPallabothula/samplePRojects/assets/160522282/d86f7301-b976-4344-97f2-f19cbd449c37">
 
 
 
 Encoding a message 
+<img width="915" alt="image" src="https://github.com/ThannojPallabothula/samplePRojects/assets/160522282/4d64a3a6-32ab-4486-9fcd-60a047fea082">
 
-<img width="758" alt="image" src="https://github.com/ThannojPallabothula/Projects/assets/160522282/c0a3aaff-f963-4733-9fde-e41d3add3e73">
+
+
 
 
 ____________________________________________________________________________________________________________________________________________________________________________________________________
 
 
-Decoding a message 
-<img width="914" alt="image" src="https://github.com/ThannojPallabothula/Projects/assets/160522282/7dde0ad9-964d-4f42-b9cf-55cd96934dc8">
+Decoding a message
+<img width="974" alt="image" src="https://github.com/ThannojPallabothula/samplePRojects/assets/160522282/1ba2bc7c-2e91-4df1-b2b5-b2b01e1ad8a1">
+
+
 
 
 
