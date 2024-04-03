@@ -1,9 +1,15 @@
-![alt text](image-1.png) 
+password generator   
 
-password generator     ![alt text](image-2.png)
+  ![image](https://github.com/ThannojPallabothula/samplePRojects/assets/160522282/ad0b3063-a353-4fe0-a8bf-017e8d7fbaad)                                                                                                                         
+
+
+
+
+
 
 when the code finally runs this how we generate  password 
-![alt text](image.png)
+![image](https://github.com/ThannojPallabothula/samplePRojects/assets/160522282/2d49cc64-98cc-4356-8773-3b03481b20b3)
+
 
 lets break down this code :
 
