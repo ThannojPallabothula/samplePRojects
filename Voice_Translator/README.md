@@ -1,4 +1,6 @@
-![Uploading image.png…]()
+![image](https://github.com/ThannojPallabothula/samplePRojects/assets/160522282/a772fa28-c81f-4b18-92d7-84ddd08ae93d)
+
+
 
 Voice Translator                         
 
