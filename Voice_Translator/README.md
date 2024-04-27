@@ -1,11 +1,12 @@
+![Uploading image.png…]()
 
-Voice Translator                         https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.stepes.com%2Fvoice-audio-interpretation%2F&psig=AOvVaw1LR5saLi_Ruq5mCixi4qvX&ust=1714314796102000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCICVwsHO4oUDFQAAAAAdAAAAABAE![image](https://github.com/ThannojPallabothula/samplePRojects/assets/160522282/8e1dddbe-0c23-41f6-9e85-0c20d8a5dd5a)
-
+Voice Translator                         
 
 Overview
 ---------
 
-The Voice Translator project is designed to translate spoken English input into your desired language as  text and audio output using Python libraries. 
+The Voice Translator project is designed to translate spoken English input into your desired language as  text and
+audio output using Python libraries. 
 It leverages the Google Translate API for translation and SpeechRecognition for speech-to-text conversion.The translated text is then converted into speech using the Google Text-to-Speech
 (gTTS) library, and the resulting audio is played using the Playsound library.
 
